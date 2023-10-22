@@ -63,8 +63,8 @@ based in node.js, puppeteer and zefoy.com.
 ✅ Up Shares  
 ✅ Up Favorites  
 ✅ Up Comment Hearts  
-✅ Up Hearts (poor availability)  
-❌ ~~Up Followers (poor availability)~~  
+✅ Up Hearts 
+❌ Up Followers  
 ✅ Up Live Stream [VS+LIKES]  
 ✅ Auto Captcha Solver (Premium & Free Mode)  
 ✅ Captcha in Terminal (Optional)  
@@ -511,6 +511,7 @@ Return status examples:
 Cloudflare Valid / Zefoy Expired
 Cloudflare Valid / Zefoy Valid
 Cloudflare Expired / Zefoy Expired
+Cloudflare Expired / Freer-Services Expired 
 ```
 
 #### Connect to an Existing Browser Instance
